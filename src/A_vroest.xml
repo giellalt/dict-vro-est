@@ -4,7 +4,7 @@
  xmlns:xs="http://www.w3.org/2001/XMLSchema"
  xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
  xmlns:fn="http://www.w3.org/2005/02/xpath-functions"
- xsi:noNamespaceSchemaLocation="/Users/rueter/main/gtcore/schemas/fiu-dict-schema.xsd" xml:lang="vro">
+ xsi:noNamespaceSchemaLocation="/Users/rueter/main/giella-core/schemas/fiu-dict-schema.xsd" xml:lang="vro">
 
 <e order="2"> <lg> <l pos="A">aastaganõ</l> <stg> <st Contlex="" VESid="5">aastaga|nõ</st> </stg> <stress>`aastaga|nõ</stress> <prdgm>-dsõ, -st<SUP>5</SUP></prdgm> </lg> <mg> <l_ref type="=">`aastanõ</l_ref> <l_ref type="=">aast`aonõ</l_ref> <l_ref type="=">ajastanõ</l_ref> <tg xml:lang="est"> <t>aastane</t> </tg> <xg> <x>üte-, katõ-, neläaastaganõ, katsa-aastaganõ</x> <xt> ühe-, kahe-, nelja-aastane, kaheksa-aastane</xt> </xg> </mg> </e>
 <e order="2"> <lg> <l pos="A">aastanõ</l> <stg> <st Contlex="" VESid="7">aasta|nõ</st> </stg> <stress>`aasta|nõ</stress> <prdgm>-dsõ, -st<SUP>7</SUP></prdgm> </lg> <mg><l_ref type="=">aast`ao|nõ</l_ref>, <prdgm>-dsõ, -st<SUP>7</SUP></prdgm> <l_ref type="=">`aastaganõ</l_ref><tg xml:lang="est"> <t/> </tg></mg> </e>

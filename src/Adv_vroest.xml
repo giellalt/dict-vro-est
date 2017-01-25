@@ -4,7 +4,7 @@
  xmlns:xs="http://www.w3.org/2001/XMLSchema"
  xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
  xmlns:fn="http://www.w3.org/2005/02/xpath-functions"
- xsi:noNamespaceSchemaLocation="/Users/rueter/main/gtcore/schemas/fiu-dict-schema.xsd" xml:lang="vro">
+ xsi:noNamespaceSchemaLocation="/Users/rueter/main/giella-core/schemas/fiu-dict-schema.xsd" xml:lang="vro">
 
 <e order="2"> <lg> <l pos="Adv">ahnõhe</l> <stg> <st>ahnõhe</st> </stg> <stress>`ahnõhe</stress> </lg> <mg> <l_ref type="=">`ahnõlõ</l_ref> <tg xml:lang="est"> <t>ahnelt</t><t>ahnesti</t> </tg> </mg> </e>
 <e order="2"> <lg> <l pos="Adv">aigaolt</l> <stg> <st>aigaolt</st> </stg> <stress>aigaolt</stress> </lg> <mg> <tg xml:lang="est"> <t>aegajalt</t> </tg> </mg> </e>

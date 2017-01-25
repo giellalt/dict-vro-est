@@ -4,7 +4,7 @@
  xmlns:xs="http://www.w3.org/2001/XMLSchema"
  xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
  xmlns:fn="http://www.w3.org/2005/02/xpath-functions"
- xsi:noNamespaceSchemaLocation="/Users/rueter/main/gtcore/schemas/fiu-dict-schema.xsd" xml:lang="vro">
+ xsi:noNamespaceSchemaLocation="/Users/rueter/main/giella-core/schemas/fiu-dict-schema.xsd" xml:lang="vro">
 <e> <lg> <l pos="V">aama</l> <stg> <st Contlex="V_78SAAMA">aama</st> </stg> <stress>`aama</stress> <prdgm>ajjaq <cc>e</cc> aiaq, aa,<tf/> <i>kesks</i> aet<SUP>55</SUP></prdgm> </lg> <mg> <l_ref type="=">ajama</l_ref> <tg xml:lang="est"> <t>ajama</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">aelõma</l> <stg> <st Contlex="V_55KÕNÕLÕMA">ael|õma</st> </stg> <stress>`ael|õma</stress> <prdgm>-daq,<tf/> -õ<SUP>85</SUP></prdgm> </lg> <mg> <tg xml:lang="est"> <t>hulkuma</t><t>ringi aelema</t><t>ümber aelema</t> </tg> </mg> <mg> <tg xml:lang="est"> <t>hullama</t> </tg> </mg> <mg> <tg xml:lang="est"> <t>indlema</t> </tg> </mg> <mg> <tg xml:lang="est"> <t>paarituma</t> </tg> <xg> <x>las lehm aelõs ärq</x> <xt> las lehm paaritub</xt> </xg> </mg> </e>
 <e> <lg> <l pos="V">ahnitsõma</l> <stg> <st Contlex="V_MANITSÕMA">ahni|tsõma</st> </stg> <stress>ahni|tsõma</stress> <prdgm>-tsaq <cc>e</cc> -daq,<tf/> -dsõ<SUP>90</SUP></prdgm> </lg> <mg> <tg xml:lang="est"> <t>ahnitsema</t> </tg> </mg> </e>

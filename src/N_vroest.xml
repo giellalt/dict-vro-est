@@ -4,7 +4,7 @@
  xmlns:xs="http://www.w3.org/2001/XMLSchema"
  xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
  xmlns:fn="http://www.w3.org/2005/02/xpath-functions"
- xsi:noNamespaceSchemaLocation="/Users/rueter/main/gtcore/schemas/fiu-dict-schema.xsd" xml:lang="vro">
+ xsi:noNamespaceSchemaLocation="/Users/rueter/main/giella-core/schemas/fiu-dict-schema.xsd" xml:lang="vro">
 
 <e order="2"> <lg> <l pos="N">aabits</l> <stg> <st Contlex="" VESid="13">aabi|ts</st> </stg> <stress>aabi|ts</stress> <prdgm>-dsa, -tsat<SUP>13</SUP></prdgm> </lg> <mg> <l_ref type="=">aavits</l_ref> <tg xml:lang="est"> <t>aabits</t> </tg> </mg> </e>
 <e order="2"> <lg> <l pos="N">aadli</l> <stg> <st Contlex="" VESid="1">aadli</st> </stg> <stress>`aadli</stress> <prdgm>-, -t<SUP>1</SUP></prdgm> </lg> <mg> <tg xml:lang="est"> <t>aadel</t> </tg> <xg> <x>aadli#miis'</x> <xt>aadlimees</xt><xt>aadlik</xt> </xg> </mg> </e>
