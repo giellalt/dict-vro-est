@@ -6,6 +6,6 @@
  xmlns:fn="http://www.w3.org/2005/02/xpath-functions"
  xsi:noNamespaceSchemaLocation="/Users/rueter/main/giella-core/schemas/fiu-dict-schema.xsd" xml:lang="vro">
 
-<e order="2"> <lg> <l pos="CC">aq</l> <lsub>a</lsub> <stg> <st>aq</st> <st>a</st> </stg> <stress>a(q)</stress> </lg> <mg> <l_ref type="&lt;">agaq</l_ref> <tg xml:lang="est"> <t>aga</t><t>kuid</t> </tg> <xg> <x>tä taht, a tä ei saaq</x> <xt> ta tahab, kuid ta ei saa</xt> </xg> <xg> <x>a mille?</x> <xt> aga miks?</xt> </xg> </mg> </e>
+<e order="2"> <lg> <l pos="CC">aq</l> <lsub>a</lsub> <stg> <st>aq</st> <st>a</st> </stg> <stress>a(q)</stress> </lg> <mg> <l_ref type="&lt;">agaq</l_ref> <tg xml:lang="est"> <t>aga</t><t>kuid</t> </tg> <xg> <x>tä taht, a tä ei saaq</x> <xt xml:lang="est"> ta tahab, kuid ta ei saa</xt> </xg> <xg> <x>a mille?</x> <xt xml:lang="est">aga miks?</xt> </xg> </mg> </e>
 <e order="2"> <lg> <l pos="CC">agaq</l> <stg> <st>agaq</st> </stg> <stress>agaq</stress> </lg> <mg> <l_ref type="&gt;">a(q)</l_ref> <tg xml:lang="est"> <t/> </tg> </mg> </e>
 </r>
