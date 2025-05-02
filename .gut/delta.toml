@@ -1,0 +1,12 @@
+template = ""
+rev_id = 4
+template_sha = "156a8b834dacf74fc905a1ee460fe5eabb9556c6"
+
+[replacements]
+__LICENSE__ = "CC-BY-4.0"
+__UND2C_SRC__ = "vro"
+__UND2C_TRG__ = "et"
+__UNDEFINED_SOURCE__ = "Võro"
+__UNDEFINED_TARGET__ = "Estonian"
+__UND_SRC__ = "vro"
+__UND_TRG__ = "est"
