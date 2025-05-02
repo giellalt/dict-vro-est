@@ -4,6 +4,10 @@ This repository contains source files for a dictionary from Võro to Estonian. T
 
 Many of the dictionaries are published on [sátni.org](https://sátni.org) and [NDS](https://sanit.oahpa.no).
 
-# Contributions
+# Source
 
-Contributions are welcome, just clone and submit a pull request. Or use the in-place editor in GitHub to make your contributions. All contributions must be licensed under the same license as the original code.
+The content is based directly on the web-site material
+at <https://synaq.org/>,  2016-12-08.
+
+The material in inc requires disambiguation for part of speech.
+
